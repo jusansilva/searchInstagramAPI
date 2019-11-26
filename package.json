@@ -1,0 +1,22 @@
+{
+  "name": "searchinstagramapi",
+  "version": "1.0.0",
+  "description": "search instagram profile api",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jusansilva/searchInstagramAPI.git"
+  },
+  "author": "Jusan Magno",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jusansilva/searchInstagramAPI/issues"
+  },
+  "homepage": "https://github.com/jusansilva/searchInstagramAPI#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
